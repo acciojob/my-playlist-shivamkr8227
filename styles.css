@@ -24,11 +24,14 @@ ul{
 .player_two{
 	box-sizing:border-box;
 	background-color:white;
-	text-align:center;
+	justify-content:center;
+	align-item:center;
 	max-width:400px;
 	brder:1px solid black;
 }
 .video, .audio{
 	width:390px;
 	text-align:center;
+	justify-content:center;
+	align-item:center;
 }
